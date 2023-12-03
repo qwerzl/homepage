@@ -1,4 +1,4 @@
-lockfileVersion: '6.1'
+lockfileVersion: '6.0'
 
 settings:
   autoInstallPeers: true
@@ -9,8 +9,8 @@ dependencies:
     specifier: ^2.0.20
     version: 2.0.20(solid-js@1.7.11)
   '@unocss/reset':
-    specifier: ^0.55.7
-    version: 0.55.7
+    specifier: ^0.58.0
+    version: 0.58.0
   '@vercel/analytics':
     specifier: ^1.0.2
     version: 1.0.2
@@ -1102,6 +1102,11 @@ packages:
 
   /@unocss/reset@0.55.7:
     resolution: {integrity: sha512-yvmLhxqUNgf6wue7IvhV/FdrQW9H9LF1Bmmhwwaiz2aV0E74aN4pbuYPZwNq3YafsQvNQ0UdtuXjddY4QMRCPw==}
+    dev: true
+
+  /@unocss/reset@0.58.0:
+    resolution: {integrity: sha512-UVZ5kz37JGbwAA06k/gjKYcekcTwi6oIhev1EpTtCvHLL6XYcYqcwb/u4Wjzprd3L3lxDGYXvGdjREGm2u7vbQ==}
+    dev: false
 
   /@unocss/scope@0.55.7:
     resolution: {integrity: sha512-r0CaS1aSpcC37ztqOJ3qaWIzM6zwdlX8r0rib2vTvWTckw1J0ocVhjNkWRBM9kRWte006JhecdiZzXNHA40akg==}
